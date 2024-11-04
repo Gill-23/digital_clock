@@ -1,0 +1,17 @@
+.clock-container {
+    font-size: 48px;
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    display: inline-block;
+  }
+  body{
+    background-image: url('https://lifencolors.in/cdn/shop/products/81d868_d6f92ee020944897b77c5a12270e0562_mv2_80faede0-ddfd-4831-a987-915915edef83.jpg?v=1693806427&width=1946');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+  }
+  
